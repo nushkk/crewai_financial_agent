@@ -18,7 +18,6 @@ This project simulates a multi-agent system for financial market analysis using 
 - Serper.dev (search tool)  
 - `.env` + `utils.py` for secure API management
 
-> ⚠️ **Note**: You need valid API keys to run this notebook. The keys are not included for security reasons.
 
 ## 📚 What I Learned
 
@@ -27,3 +26,4 @@ This project simulates a multi-agent system for financial market analysis using 
 * Prompt engineering for financial workflows
 * API key management using `.env` and Git best practices
 
+> ⚠️ **Note**: You need valid API keys to run this notebook. The keys are not included for security reasons.
